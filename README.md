@@ -1,4 +1,4 @@
-# pomodoro
+# cherry-tomato
 
 A simple terminal-based pomodoro app, using a client/server architecture.
 
